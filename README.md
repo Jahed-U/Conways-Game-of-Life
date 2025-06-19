@@ -18,7 +18,8 @@ python "Game of Life.py"
 ```
 
 ## 📸 Demo
-*(Add a GIF or screenshot of your simulation running if you can)*
+<img width="545" alt="Screenshot 2024-02-02 at 12 37 06" src="https://github.com/user-attachments/assets/b0691c06-9fdc-4a1e-a3d3-8aebfc557c5f" />
+
 
 ## 🧠 Why This Project
 This simulation is a minimal example of how emergent complexity can arise from simple local interactions — a key concept shared with financial market modelling.
